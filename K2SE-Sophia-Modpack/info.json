@@ -8,10 +8,6 @@
 	"dependencies": [
 		"base",
 		"Krastorio2",
-		"space-exploration",
-		"Todo-list",
-		"AutoDeconstruct",
-		
-		"? infiniteResourcesNormalYieldDepletion"
+		"space-exploration"
 	]
 }
