@@ -1,0 +1,17 @@
+{
+	"name": "K2SE-Sophia-Modpack",
+	"version": "1.1.2",
+	"title": "Krastorio2 and SpaceExploration by Sophia",
+	"author": "Sophia",
+	"contact": "",
+	"homepage": "",
+	"dependencies": [
+		"base",
+		"Krastorio2",
+		"space-exploration",
+		"Todo-list",
+		"AutoDeconstruct"
+		
+		"? infiniteResourcesNormalYieldDepletion"
+	]
+}
