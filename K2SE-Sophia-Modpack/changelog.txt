@@ -1,4 +1,21 @@
 -------------------------------------------------- --------------------------------------------------
+バージョン: 1.1.3
+日付: 2025 年 11 月 4 日
+  主な特徴:
+    - Factorio 2.0に対応
+
+    - MOD 追加
+  　　ToDoList
+　　　AutoDeconstruct
+　　　Bottleneck
+　　　Chest Auto Sort
+　　　AAI Containers & Warehouses
+　　　Electric Pole Free Light
+　　　Even Distribution
+　　　Grappling Gun（任意）
+　　　Jetpack（任意）
+
+-------------------------------------------------- --------------------------------------------------
 バージョン: 1.1.1
 日付: 2024 年 4 月 8 日
   主な特徴:
