@@ -1,13 +1,24 @@
 {
 	"name": "K2SE-Sophia-Modpack",
-	"version": "1.1.2",
+	"version": "1.1.3",
+	"factorio_version": "2.0",
 	"title": "Krastorio2 and SpaceExploration by Sophia",
 	"author": "Sophia",
 	"contact": "",
 	"homepage": "",
 	"dependencies": [
-		"base",
+		"base >= 2.0",
 		"Krastorio2",
-		"space-exploration"
+		"space-exploration",
+		"Todo-List",
+		"AutoDeconstruct",
+		"Bottleneck",
+		"chest-auto-sort",
+		"aai-containers",
+		"electric_pole_free_light",
+		"even-distribution",
+		"? grappling-gun >= 0.4.1",
+		"? jetpack >= 0.4.13",
+		"? bobinserters >= 1.2.0"
 	]
 }
